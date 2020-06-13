@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div >
-    INAM UL HAQ NOMI </div>
+    INAM UL HAQ NOMI Hope its finally ok </div>
   );
 }
 
