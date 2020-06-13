@@ -5,9 +5,9 @@ import './App.css';
 function App() {
   return (
     <div >
-      ok
-    </div>
+    INAM UL HAQ NOMI </div>
   );
 }
 
 export default App;
+ 
